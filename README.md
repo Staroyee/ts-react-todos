@@ -1,5 +1,3 @@
-
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -8,7 +6,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -31,8 +28,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +41,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -59,12 +53,11 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-![Gif of website](./public/images/taskify.gif)
+![Gif of website](./public/images/main.gif)
 
 I wanted to improve my typescript skills so I took to the internet and went through the tutorial I found by freeCodeCamp -
 <a href="https://www.youtube.com/watch?v=FJDVKeh7RJI">Watch Tutorial Here</a>
@@ -73,21 +66,17 @@ The project provides an application where a user can enter todos, edit, delete, 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![React][React.js]][React-url]
-* <a href="https://github.com/atlassian/react-beautiful-dnd">React-Beautiful-Dnd</a>
-
+- [![React][React.js]][React-url]
+- <a href="https://github.com/atlassian/react-beautiful-dnd">React-Beautiful-Dnd</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 The following steps explain how to install this project on your local machine.
@@ -111,43 +100,37 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
-* Enter todo items
+- Enter todo items
 
-* Mark todos as done
+- Mark todos as done
 
-* Edit todos
+- Edit todos
 
-* Delete todos
+- Delete todos
 
-* Drag & drop todos
-
+- Drag & drop todos
 
 _For more examples, please refer to the [Documentation](https://github.com/Staroyee/ts-react-todos)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Add dark mode
-- [ ] Adjust styles 
-
-
+- [ ] Adjust styles
 
 See the [open issues](https://github.com/Staroyee/ts-react-todos/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -163,18 +146,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name: [Daniel Masefield](https://www.linkedin.com/in/danielmasefield03/)
@@ -182,27 +163,26 @@ Your Name: [Daniel Masefield](https://www.linkedin.com/in/danielmasefield03/)
 Project Repo Link: [Github](https://github.com/Staroyee/ts-react-todos)
 
 Project Live Site Link: [Live Site](https://what-todo-ts.netlify.app/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Staroyee/ts-react-todos.svg?style=for-the-badge
 [contributors-url]: https://github.com/Staroyee/ts-react-todos/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Staroyee/ts-react-todos.svg?style=for-the-badge
