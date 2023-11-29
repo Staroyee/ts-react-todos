@@ -13,8 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://taskify-tsr.netlify.app/">
-    <img src="./public/images/TASKIFY.png" alt="Taskify" width="790" height="150">
+  <a href="https://what-todo-ts.netlify.app/">
+    <img src="./public/images/What_TODO_.png" alt="Taskify" width="790" height="150">
   </a>
 
   <p align="center">
@@ -23,7 +23,7 @@
     <a href="https://github.com/Staroyee/ts-react-todos"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://taskify-tsr.netlify.app/">View Demo</a>
+    <a href="https://what-todo-ts.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/Staroyee/ts-react-todos/issues">Report Bug</a>
     ·
@@ -181,7 +181,7 @@ Your Name: [Daniel Masefield](https://www.linkedin.com/in/danielmasefield03/)
 
 Project Repo Link: [Github](https://github.com/Staroyee/ts-react-todos)
 
-Project Live Site Link: [Live Site](https://taskify-tsr.netlify.app/)
+Project Live Site Link: [Live Site](https://what-todo-ts.netlify.app/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
